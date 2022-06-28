@@ -21,7 +21,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "body{\r\n  font-family: arial;\r\n  background: #EDF2F4;\r\n}\r\n\r\n.main-container {\r\n  display: grid;\r\n  grid-template: 100px 50px 1fr / 1fr;\r\n}\r\n\r\n.title{\r\n  font-size: 2rem;\r\n  font-weight: bold;\r\n  color: #D90429;\r\n  justify-self: center;\r\n  align-self: center;\r\n}\r\n\r\n.nav-bar{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 50px / repeat(3, 1fr);\r\n}\r\n\r\n.nav-bar-button{\r\n  padding: 0.5rem;\r\n  color: #EF233C;\r\n}\r\n\r\n\r\n.content{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 150px / 1fr;\r\n}\r\n", "",{"version":3,"sources":["webpack://./src/style.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,aAAa;EACb,mCAAmC;AACrC;;AAEA;EACE,eAAe;EACf,iBAAiB;EACjB,cAAc;EACd,oBAAoB;EACpB,kBAAkB;AACpB;;AAEA;EACE,oBAAoB;EACpB,aAAa;EACb,oCAAoC;AACtC;;AAEA;EACE,eAAe;EACf,cAAc;AAChB;;;AAGA;EACE,oBAAoB;EACpB,aAAa;EACb,0BAA0B;AAC5B","sourcesContent":["body{\r\n  font-family: arial;\r\n  background: #EDF2F4;\r\n}\r\n\r\n.main-container {\r\n  display: grid;\r\n  grid-template: 100px 50px 1fr / 1fr;\r\n}\r\n\r\n.title{\r\n  font-size: 2rem;\r\n  font-weight: bold;\r\n  color: #D90429;\r\n  justify-self: center;\r\n  align-self: center;\r\n}\r\n\r\n.nav-bar{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 50px / repeat(3, 1fr);\r\n}\r\n\r\n.nav-bar-button{\r\n  padding: 0.5rem;\r\n  color: #EF233C;\r\n}\r\n\r\n\r\n.content{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 150px / 1fr;\r\n}\r\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.id, "body{\r\n  font-family: arial;\r\n  background: #EDF2F4;\r\n}\r\n\r\n.main-container {\r\n  display: grid;\r\n  grid-template: 100px 50px 1fr / 1fr;\r\n}\r\n\r\n.title{\r\n  font-size: 2rem;\r\n  font-weight: bold;\r\n  color: #D90429;\r\n  justify-self: center;\r\n  align-self: center;\r\n}\r\n\r\n.nav-bar{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 50px / repeat(3, 1fr);\r\n}\r\n\r\n.nav-bar-button{\r\n  padding: 0.5rem;\r\n  color: #EF233C;\r\n}\r\n\r\n\r\n.content{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 150px / 1fr;\r\n  color: #2B2D42;\r\n}\r\n\r\n.home-content{\r\n  display: grid;\r\n  grid-template: 150px 150px / 1fr;\r\n}\r\n\r\n.logo{\r\n  justify-self: center;\r\n}\r\n\r\n.menu-item{\r\n  display: grid;\r\n  grid-template: 75px 75px / 1fr 1fr;\r\n}\r\n\r\n.item-image{\r\n  grid-row: 1 / 3;\r\n  grid-column: 1 / 2;\r\n  align-self: center;\r\n  justify-self: center;\r\n}\r\n\r\n.item-title{\r\n  grid-row: 1 / 2;\r\n  grid-column: 2 / 3;\r\n  align-self: center;\r\n  justify-self: center;\r\n  font-weight: bold;\r\n}\r\n\r\n.item-details{\r\n  grid-row: 2 / 3;\r\n  grid-column: 2 / 3;\r\n  align-self: center;\r\n  justify-self: center;\r\n}\r\n\r\n.contact-details{\r\n  display: grid;\r\n  grid-template: 1fr / 1fr 1fr;\r\n}\r\n", "",{"version":3,"sources":["webpack://./src/style.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,aAAa;EACb,mCAAmC;AACrC;;AAEA;EACE,eAAe;EACf,iBAAiB;EACjB,cAAc;EACd,oBAAoB;EACpB,kBAAkB;AACpB;;AAEA;EACE,oBAAoB;EACpB,aAAa;EACb,oCAAoC;AACtC;;AAEA;EACE,eAAe;EACf,cAAc;AAChB;;;AAGA;EACE,oBAAoB;EACpB,aAAa;EACb,0BAA0B;EAC1B,cAAc;AAChB;;AAEA;EACE,aAAa;EACb,gCAAgC;AAClC;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,aAAa;EACb,kCAAkC;AACpC;;AAEA;EACE,eAAe;EACf,kBAAkB;EAClB,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;EACE,eAAe;EACf,kBAAkB;EAClB,kBAAkB;EAClB,oBAAoB;EACpB,iBAAiB;AACnB;;AAEA;EACE,eAAe;EACf,kBAAkB;EAClB,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;EACE,aAAa;EACb,4BAA4B;AAC9B","sourcesContent":["body{\r\n  font-family: arial;\r\n  background: #EDF2F4;\r\n}\r\n\r\n.main-container {\r\n  display: grid;\r\n  grid-template: 100px 50px 1fr / 1fr;\r\n}\r\n\r\n.title{\r\n  font-size: 2rem;\r\n  font-weight: bold;\r\n  color: #D90429;\r\n  justify-self: center;\r\n  align-self: center;\r\n}\r\n\r\n.nav-bar{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 50px / repeat(3, 1fr);\r\n}\r\n\r\n.nav-bar-button{\r\n  padding: 0.5rem;\r\n  color: #EF233C;\r\n}\r\n\r\n\r\n.content{\r\n  justify-self: center;\r\n  display: grid;\r\n  grid-template: 150px / 1fr;\r\n  color: #2B2D42;\r\n}\r\n\r\n.home-content{\r\n  display: grid;\r\n  grid-template: 150px 150px / 1fr;\r\n}\r\n\r\n.logo{\r\n  justify-self: center;\r\n}\r\n\r\n.menu-item{\r\n  display: grid;\r\n  grid-template: 75px 75px / 1fr 1fr;\r\n}\r\n\r\n.item-image{\r\n  grid-row: 1 / 3;\r\n  grid-column: 1 / 2;\r\n  align-self: center;\r\n  justify-self: center;\r\n}\r\n\r\n.item-title{\r\n  grid-row: 1 / 2;\r\n  grid-column: 2 / 3;\r\n  align-self: center;\r\n  justify-self: center;\r\n  font-weight: bold;\r\n}\r\n\r\n.item-details{\r\n  grid-row: 2 / 3;\r\n  grid-column: 2 / 3;\r\n  align-self: center;\r\n  justify-self: center;\r\n}\r\n\r\n.contact-details{\r\n  display: grid;\r\n  grid-template: 1fr / 1fr 1fr;\r\n}\r\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -543,7 +543,19 @@ __webpack_require__.r(__webpack_exports__);
 function contentContact() {
   const content = document.querySelector('.content');
 
-  content.textContent = "this is the content of contacts";
+  const contactDetails = document.createElement('div');
+  contactDetails.classList.add('contact-details');
+
+  const phoneTitle = document.createElement('div');
+  phoneTitle.textContent = 'Phone:';
+
+  const phoneNumber = document.createElement('div');
+  phoneNumber.textContent = '01 2345 6789'
+
+  contactDetails.appendChild(phoneTitle);
+  contactDetails.appendChild(phoneNumber);
+
+  content.appendChild(contactDetails);
 }
 
 
@@ -574,7 +586,6 @@ function initialLoad() {
   divNavBar.classList.add("nav-bar");
 
   divContent.classList.add("content");
-  divContent.textContent = "this is the content of Home";
 
   element.appendChild(divTitle);
   element.appendChild(divNavBar);
@@ -585,10 +596,21 @@ function initialLoad() {
 function contentHome () {
   const content = document.querySelector('.content');
 
-  const divImg = document.createElement('div');
-  const divDetails = document.createElement('div');
+  const divHome = document.createElement("div");
+  divHome.classList.add("home-content");
 
-  content.textContent = "this is the content of Home";
+  const divLogo = document.createElement('div');
+  divLogo.classList.add("logo");
+  divLogo.textContent = "this is the logo of the restaurant";
+
+  const divAbout = document.createElement('div');
+  divAbout.classList.add("about-restaurant");
+  divAbout.textContent = "this is info of the restaurant and how our food is super good.";
+
+
+  divHome.appendChild(divLogo);
+  divHome.appendChild(divAbout);
+  content.appendChild(divHome);
 }
 
 
@@ -610,7 +632,24 @@ __webpack_require__.r(__webpack_exports__);
 function contentMenu () {
   const content = document.querySelector('.content');
 
-  content.textContent = "this is the content of MEnu";
+  const menuItem = document.createElement('div');
+  const itemTitle = document.createElement('div');
+  const itemDetails = document.createElement('div');
+  const itemImage = document.createElement('div');
+  menuItem.classList.add('menu-item');
+  itemTitle.classList.add('item-title');
+  itemDetails.classList.add('item-details');
+  itemImage.classList.add('item-image');
+
+  itemTitle.textContent = "Menu Item 1";
+  itemDetails.textContent = "This is some information about Menu item 1";
+  itemImage.textContent = "This is the image of menu item 1";
+
+  menuItem.appendChild(itemImage);
+  menuItem.appendChild(itemTitle);
+  menuItem.appendChild(itemDetails);
+
+  content.appendChild(menuItem);
 }
 
 
@@ -754,6 +793,7 @@ const element = document.querySelector('#content');
 
 
   (0,_initial_js__WEBPACK_IMPORTED_MODULE_1__.initialLoad)();
+  (0,_initial_js__WEBPACK_IMPORTED_MODULE_1__.contentHome)();
   (0,_navbar_js__WEBPACK_IMPORTED_MODULE_4__["default"])();
 
   const navBar = document.querySelectorAll('.nav-bar-button');
@@ -762,15 +802,14 @@ const element = document.querySelector('#content');
 
   function reloadContent(e){
 
+    content.innerHTML = '';
+
     if(e.target.id == "home"){
       (0,_initial_js__WEBPACK_IMPORTED_MODULE_1__.contentHome)();
-
     }else if(e.target.id == "menu"){
        (0,_menu_js__WEBPACK_IMPORTED_MODULE_3__["default"])();
-
     }else if(e.target.id == "contact"){
       (0,_contact_js__WEBPACK_IMPORTED_MODULE_2__["default"])();
-
     }
   }
 
